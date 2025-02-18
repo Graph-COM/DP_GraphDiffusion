@@ -1,4 +1,5 @@
 # Reproducibility Instructions for "Differentially Private Graph Diffusion with Applications in Personalized PageRanks" Experiments
+### **Authors：** **Rongzhe Wei**, **Eli Chien**, **Pan Li**
 
 This repository contains the code and instructions to reproduce the experiments presented in our paper on privacy-preserving graph diffusion framework. Please follow the steps below to set up the environment and run the experiments.
 
@@ -41,3 +42,17 @@ To run the experiment using the `BlogCatalog` dataset with all methods, use the 
 ```bash
 python main.py --dataset BlogCatalog --method all
 ```
+
+### **Paper Link**
+📄 [Differentially Private Graph Diffusion with Applications in Personalized PageRanks](https://arxiv.org/abs/2407.00077)
+
+### **BibTeX Citation**
+Cite our paper:
+
+```bibtex
+@article{wei2024differentially,
+  title={Differentially private graph diffusion with applications in personalized pageranks},
+  author={Wei, Rongzhe and Chien, Eli and Li, Pan},
+  journal={Advances in Neural Information Processing Systems},
+  year={2024}
+}
