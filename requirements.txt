@@ -1,0 +1,5 @@
+pip install rich==13.7.0
+pip install tqdm==4.66.1
+pip install pandas
+pip install numpy
+pip install scipy==1.11.4
